@@ -2,7 +2,7 @@
 
 ## 📌Note
 
-Please note that this project is developed for a specific client and the source code, as well as the live demo link, are kept private. If you have any questions about this project or would like to know more, please feel free to contact me.
+### Please note that this project is developed for a specific client and the source code, as well as the live demo link, are kept private. If you have any questions about this project or would like to know more, please feel free to contact me.
 
 ## Contact Me
 
