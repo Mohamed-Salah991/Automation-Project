@@ -1,5 +1,9 @@
 # Automation Project
 
+## 📌Note
+
+Please note that this project is developed for a specific client and the source code, as well as the live demo link, are kept private. If you have any questions about this project or would like to know more, please feel free to contact me.
+
 ## Contact Me
 
 If you have any questions about this project, feel free to reach out to me via :
@@ -30,14 +34,6 @@ The automation project encompasses several steps to efficiently process the data
 
 By automating these processes, the project significantly enhances the efficiency and accuracy of evaluating soil properties. It eliminates the need for manual data processing and complex calculations, saving time and reducing the chances of human error.
 
-## Libraries Used
-
-- React
-- React Chart.js
-- React CSV
-- html2canvas
-- xlsx
-
 ## Features
 
 - User-friendly design and easy to use.
@@ -55,6 +51,59 @@ By automating these processes, the project significantly enhances the efficiency
 - Time Savings: The automation project eliminates the need for manual data processing and complex calculations, saving time and enabling professionals to focus on analysis and decision-making.
 - User-Friendly Interface: The project provides a user-friendly interface for data input and result visualization, making it accessible to users with varying levels of technical expertise.
 
+## Video Demo
+
+<video width="100%" height="500" controls>
+  <source src="./Files/Record.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Screenshots
+
+Here are some screenshots from the project:
+
+### Get Start
+
+<img src="./Files/Images/image1.png" alt="Get Start">
+
+### Tables
+
+<img src="./Files/Images/image2.png" alt="Tables">
+
+### Multiple Select
+
+<img src="./Files/Images/image5.png" alt="Multiple Select">
+
+### Charts
+
+<img src="./Files/Images/image3.png" alt="Charts">
+
+### Invalid Formate
+
+<img src="./Files/Images/image4.png" alt="Invalid Formate">
+
+### Confirm Value In The Last Row
+
+<img src="./Files/Images/image6.png" alt="Confirm Value In The Last Row">
+
+## Libraries Used
+
+- React
+- React Chart.js
+- React CSV
+- html2canvas
+- xlsx
+
 ## Conclusion
 
 This automation project showcases my expertise in developing efficient and reliable solutions for analyzing and evaluating soil properties. It demonstrates my ability to handle complex data processing, calculations, and user interactions within a React.js environment. By implementing this automation project, professionals in soil analysis and engineering can streamline their workflows, make informed decisions, and achieve greater efficiency in their daily work.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Mohamed Salah - [Linked In](https://www.linkedin.com/in/mohamed-salah-a74b5b234/)
+
+Project Link: [https://github.com/Mohamed-Salah991/Soil-Properties-Automation]
