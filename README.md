@@ -1,5 +1,18 @@
 # Automation Project
 
+# Table of Contents
+
+- [📌Note](#📌note)
+- [Contact Me](#contact-me)
+- [Project Description](#project-description)
+- [Features](#features)
+- [Project Benefits](#project-benefits)
+- [Video Demo](#video-demo)
+- [Screenshots](#screenshots)
+- [Libraries Used](#libraries-used)
+- [Conclusion](#conclusion)
+- [License](#license)
+
 ## 📌Note
 
 ### Please note that this project is developed for a specific client and the source code, as well as the live demo link, are kept private. If you have any questions about this project or would like to know more, please feel free to contact me.
