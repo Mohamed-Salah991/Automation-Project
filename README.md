@@ -53,10 +53,9 @@ By automating these processes, the project significantly enhances the efficiency
 
 ## Video Demo
 
-<video width="100%" height="500" controls>
-  <source src="./Files/Record.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+#### Click the image below to watch the video on YouTube:
+
+[![Video Demo](https://img.youtube.com/vi/6CXRkEDyY8Y/2.jpg)](https://youtu.be/6CXRkEDyY8Y)
 
 ## Screenshots
 
